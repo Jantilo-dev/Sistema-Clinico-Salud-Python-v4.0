@@ -31,7 +31,7 @@ Desarrollado en Python con Flask y MySQL.
 ## ⚙️ Requisitos previos
 
 - Python 3.8 o superior.
-- MySQL (o MariaDB) con una base de datos creada.
+- MySQL.
 - Git (para clonar el repositorio).
 
 ## Creación de Tablas en MySQL
