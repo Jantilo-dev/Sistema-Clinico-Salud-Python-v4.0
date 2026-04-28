@@ -3,12 +3,13 @@ import mysql.connector
 from mysql.connector import Error
 
 #  INGRESA TUS CREDENCIALES AQUÍ
+# Aca colocare un ejemplo de la conexión en MySQL. por motivos de privacidad no colocare las credenciales que ocupe para el proyecto
 DB_CONFIG = {
-            "host":"138.255.103.114",
+            "host":"111.111.111.111",
             "port":3306,
-            "user":"inacodec_poo_seccion_c2",
-            "password":"AQm}ZzpW0ovqyaZJ",
-            "database":"inacodec_dataPracticaApis" # Asegúrate de poner el nombre real de la BD
+            "user":"inacodec",
+            "password":"1111111111111",
+            "database":"inacodec"
 }
 
 def get_db_connection():
