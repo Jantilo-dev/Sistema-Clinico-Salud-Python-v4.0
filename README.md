@@ -33,3 +33,10 @@ Desarrollado en Python con Flask y MySQL.
 - Python 3.8 o superior.
 - MySQL (o MariaDB) con una base de datos creada.
 - Git (para clonar el repositorio).
+
+## Tablas que se Ocuparon.
+- JF_Citas
+- JF_Medico
+- JF_Paciente
+- JF_Recetas
+- JF_usuarios
